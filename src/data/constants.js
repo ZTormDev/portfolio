@@ -239,7 +239,7 @@ export const education = [
     date: "January 2023 - April 2023",
     grade: "Professional",
     desc: "In this course I have learned to improve as a web developer by learning good practices and new languages ​​such as PHP, MYSQL, REACT, NODE JS and NEXT.JS",
-    degree: "Professional Game Developer with Unity",
+    degree: "Full Web Developer",
   },
   {
     id: 2,
