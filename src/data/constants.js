@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/ZTormDev",
   resume:
     "",
-  linkedin: "https://www.linkedin.com/in/sebastian-soto-villagra-4094a7298/",
+  linkedin: "https://www.linkedin.com/in/ztormdev/",
 };
 
 export const skills = [
